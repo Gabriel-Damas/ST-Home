@@ -52,7 +52,7 @@ header .menu .ativo, header .menu a:hover{
 
 .principal h2{
     color: white;
-    font-size: 35px;
+    font-size: 30px;
 }
 
 .principal .links a{
@@ -73,7 +73,7 @@ header .menu .ativo, header .menu a:hover{
 h2{
     max-width: 9500px;
     max-height: 800px;
-    padding: 100px 108px;
+    padding: 50px 50px;
     display:inline-block;
     border: 1px solid white;
     border-radius: 3px;
